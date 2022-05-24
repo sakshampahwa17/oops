@@ -1,5 +1,5 @@
 // DEV HERE//
-// RISHI HERE //
+// RISHI HERE//
 #include<iostream>
 using namespace std;
 class student
